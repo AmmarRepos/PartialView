@@ -1,0 +1,18 @@
+﻿@model Person
+
+<div class="container">
+    <div class="list-group">
+        <div class="row">
+            <div class="list-group-item">
+                <div class="row text-left">
+                    <div>
+                        Name: @Model.Name | Phone: @Model.PhoneNumber | City: @Model.City | Person ID: @Model.Id
+			<div>
+			    <a asp-action="Delete" asp-controller="Home" asp-route-id=@Model.Id class="btn btn-danger">Delete Person</a>
+			</div>
+		    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
