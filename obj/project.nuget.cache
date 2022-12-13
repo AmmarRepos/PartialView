@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bMldEW/EO5Aw1Lwfbf+FSUQcJFiedRD/2oQVzfhFV0F/SU1hONcBxHnwIewYgvY1q7Gm9Ae7DkVZb0islLq2UQ==",
+  "dgSpecHash": "TeduhYFoG+1pRYrYoacQeku9suESsGxpe3nQXTiJMKav2noJkiw2mpbEXsNaUF1yDuHqP2yoPcKn+fpzrNiSgg==",
   "success": true,
-  "projectFilePath": "/home/ammar/repos/PartialView/PeopleMVC.csproj",
+  "projectFilePath": "/home/ammar/repos/PartialView/PartialView.csproj",
   "expectedPackageFiles": [
     "/home/ammar/.nuget/packages/humanizer.core/2.2.0/humanizer.core.2.2.0.nupkg.sha512",
     "/home/ammar/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

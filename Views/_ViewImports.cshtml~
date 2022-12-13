@@ -1,4 +1,0 @@
-﻿@using PeopleMVC
-@using PeopleMVC.Models
-@using PeopleMVC.wwwroot.ViewModels
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers

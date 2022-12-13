@@ -8619,9 +8619,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ammar/repos/PartialView/PeopleMVC.csproj",
-      "projectName": "PeopleMVC",
-      "projectPath": "/home/ammar/repos/PartialView/PeopleMVC.csproj",
+      "projectUniqueName": "/home/ammar/repos/PartialView/PartialView.csproj",
+      "projectName": "PartialView",
+      "projectPath": "/home/ammar/repos/PartialView/PartialView.csproj",
       "packagesPath": "/home/ammar/.nuget/packages/",
       "outputPath": "/home/ammar/repos/PartialView/obj/",
       "projectStyle": "PackageReference",
